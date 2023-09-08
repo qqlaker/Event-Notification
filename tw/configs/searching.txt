@@ -1,0 +1,1 @@
+user=|follow|, keyword=(Why_Don't_We)_OR_(U2)_OR_(Burning_Man)_OR_(Dr_Dre)_OR_(Shakira)_OR_(Big_time_Rush)_OR_(BTR)_OR_(Tipper)_AND_("on_sale"_OR_"tickets_on_sale"_OR_"presale_begins"_OR_"pre-sale_begins"_OR_added_OR_tour_OR_play_OR_playing_OR_show)

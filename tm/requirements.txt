@@ -1,0 +1,10 @@
+colorama==0.4.4
+currency_converter==0.5.5
+CurrencyConverter==0.16.8
+gspread==5.1.1
+gspread_dataframe==3.2.2
+oauth2client==4.1.3
+pandas==1.3.1
+python_dateutil==2.8.2
+pytz==2021.3
+requests==2.27.1

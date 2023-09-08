@@ -1,0 +1,8 @@
+.idea/
+venv/
+
+tw/configs/config.ini
+tw/configs/credentials.json
+
+tm/configs/config.ini
+tm/configs/credentials.json
