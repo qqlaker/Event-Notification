@@ -26,4 +26,4 @@ Both scenarios receive filtered data from the official API and send it to the Di
 
 ---
 
-### ✅ Thus, we can track upcoming events in advance and use this information for commercial purposes ✅
+### ✅ This way we can track upcoming events in advance ✅
